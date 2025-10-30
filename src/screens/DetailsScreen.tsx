@@ -10,6 +10,7 @@ import Icons from "@expo/vector-icons/MaterialIcons";
 import { StatusBar } from "expo-status-bar";
 import BottomSheet from "@gorhom/bottom-sheet";
 
+// this is dedicated size list for shoes
 const SIZES = ["XS", "S", "M", "L", "XL", "XXL", "3XL"];
 
 const DetailsScreen = ({
